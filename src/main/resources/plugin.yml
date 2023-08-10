@@ -1,0 +1,3 @@
+name: Mine
+version: '${project.version}'
+main: io.github.wamel04.mine.BukkitInitializer
