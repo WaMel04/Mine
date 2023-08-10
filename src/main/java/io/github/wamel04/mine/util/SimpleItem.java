@@ -1,4 +1,4 @@
-package io.github.wamel04.mine.regener.util;
+package io.github.wamel04.mine.util;
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;

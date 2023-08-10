@@ -1,7 +1,7 @@
 package io.github.wamel04.mine.regener.list;
 
 import io.github.wamel04.mine.regener.Regener;
-import io.github.wamel04.mine.regener.util.SimpleItem;
+import io.github.wamel04.mine.util.SimpleItem;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 

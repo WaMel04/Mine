@@ -1,7 +1,7 @@
 package io.github.wamel04.mine.regener;
 
 import io.github.wamel04.mine.BukkitInitializer;
-import io.github.wamel04.mine.regener.util.SimpleItem;
+import io.github.wamel04.mine.util.SimpleItem;
 import org.bukkit.GameMode;
 import org.bukkit.Location;
 import org.bukkit.Material;
